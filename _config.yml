@@ -101,12 +101,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+ß
 # Site Author
 author:
   name             : "Luke Rouleau"
   avatar           : "/assets/images/bio-photo2.png"
-  bio              : "*in between a mad scientist, a mad artist, and just plain mad*"
+  bio              : "*welcome to a space for me to define and refine my thoughts*"
   # bio              : "*figuring it out*"
   location         : "Dallas, TX"
   email            : "rouleauluke@gmail.com"
